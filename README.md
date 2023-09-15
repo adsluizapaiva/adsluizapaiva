@@ -1,16 +1,26 @@
-### Hi there 👋
+## Luíza Paiva
 
-<!--
-**adsluizapaiva/adsluizapaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou **Luíza**, uma entusiasta da área comercial com 27 anos de idade. Estou atualmente iniciando uma transição de carreira e embarcando em jornada de aprendizado na área de tecnologia, cursando **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Newton Paiva**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiência Profissional
+
+#### eMaster Cloud & Security (AWS)
+*Sales Development Representative* | *Março de 2023 - Atual*
+
+- 💡 Atuando na área de tecnologia, focando em serviços de Cloud Computing da **_AWS_**.
+
+
+### Formação Acadêmica
+
+- **_Análise e Desenvolvimento de Sistemas_**
+  - **_Centro Universitário Newton Paiva_**
+  - 🎓 *Previsão de conclusão: Junho de 2025* 
+  
+
+### Contato
+
+- 📧 Email: luizadpaiva@gmail.com
+- 📱 Telefone: (31) 9 9255-5564
+- 💼 LinkedIn: [luizadpaiva](https://www.linkedin.com/in/luizadpaiva/)
+- 📸 Instagram: [ads_luizapaiva](https://www.instagram.com/ads_luizapaiva/)
