@@ -23,7 +23,7 @@
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
-### Certificções AWS Obtidas 🤓
+### Certificações AWS Obtidas 🤓
 
 <a href="https://www.credly.com/badges/90116376-b0e7-46ac-8dd2-466085fbee0a/public_url/" target="_blank">
   <img src="https://d1.awsstatic.com/WWPS/AWS_Educate_Logo2.914df33100523a7d60c9c897d79d1cec23cc7e0c.png" alt="AWS Educate Introduction to Cloud 101" style="width: 150px;">
