@@ -9,7 +9,7 @@
 
 🎓 Eu estudo [Análise e Desenvolvimento de Sistemas](https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/) | [Newton Paiva](https://newtonpaiva.br/) | ADS
 
-👩‍💻 Atualmente eu trabalho como SDR [eMaster](https://emaster.cloud/) | Parceiros [AWS](https://aws.amazon.com/)
+👩‍💻 Atualmente eu trabalho como SDR [eMaster Cloud & Security](https://emaster.cloud/) | Parceiro [AWS](https://aws.amazon.com/)
 
 🔎 Também sou curioso sobre [Cloud Computing, Data Science e Design UX]
 
@@ -23,12 +23,13 @@
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
-### Cursos realizados 🤓
+### Certificções AWS Obtidas 🤓
 
 <a href="https://www.credly.com/badges/90116376-b0e7-46ac-8dd2-466085fbee0a/public_url/" target="_blank">
   <img src="https://d1.awsstatic.com/WWPS/AWS_Educate_Logo2.914df33100523a7d60c9c897d79d1cec23cc7e0c.png" alt="AWS Educate Introduction to Cloud 101" style="width: 150px;">
 </a>
 
+🎓  Atuamente estou estudando para tirar: [Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/)
 
 
 ### Entre em contato comigo! 📭
